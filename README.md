@@ -6,7 +6,7 @@ Replace [**Taiga**](https://taiga.moe) default application icons with fluent ico
 ### Installation
 1. Go to your taiga installation folder and navigate to the `data\theme\Default` directory.
 2. Make a backup of the default icons. Create a `.old` folder, cut and paste the folders `16px` and `24px` and the file `Theme.xml`.
-3. Download the latest release [here], and extract the contents to that folder.
+3. Download the latest release [here](https://github.com/maisans-maid/TaigaFluenticonTheme/releases/tag), and extract the contents to that folder.
 4. Restart the app `(file -> Exit)`
 
 ### Restoring old theme
