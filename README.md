@@ -1,5 +1,5 @@
 # TaigaFluenticonTheme
-Replace taiga default application icons with fluent icons
+Replace [**Taiga**](https://taiga.moe) default application icons with fluent icons
 
 ![image](https://user-images.githubusercontent.com/56829176/175279632-e0ba9df2-e33c-4d16-9496-f7f1798cb4f1.png)
 
